@@ -22,8 +22,14 @@ Learn how to build a content-heavy website using:
 - GitHub (repo + GitHub Pages deployment)
 
 This is a learning project, not a product. Every feature exists only to teach one of the tools.
+#### Resource
+- https://docs.astro.build/en/getting-started/
+- https://htmx.org/docs/
+- https://alpinejs.dev/start-here
+- https://alpine-ajax.js.org/reference/
+- https://accessible-astro.incluud.dev/getting-started/introduction/
 
-🧩 Project Structure (Minimal + Focused)
+## 🧩 Project Structure (Minimal + Focused)
 ### 1. Astro (foundation)
 **Focus Learning:**
 - File-based routing
