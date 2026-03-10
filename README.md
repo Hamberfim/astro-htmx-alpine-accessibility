@@ -1,6 +1,6 @@
 # Astro, HTMX, Alpine, Alpine Ajax, & Accessible Astro Components
 
-## 🧭 Project Shape
+## 🧭 Project Shape | The AHA Stack
 Mimic a content-heavy reference site that includes:
 - A homepage
 - A small set of content pages (10–20 short entries)
