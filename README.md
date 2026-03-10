@@ -35,3 +35,29 @@ This is a learning project, not a product. Every feature exists only to teach on
 **Deliverables:**
 - Two or more partial updates (e.g., load more, filter, sort)
 
+### 3. Alpine.js (client-side micro‑interactions)
+**Focus Learning:**
+- `x-data`, `x-show`, `x-bind`, `x-on`
+- Scoped component behavior
+- Enhancing htmx-updated regions
+
+**Deliverables:**
+- A toggle, disclosure, or small UI component
+
+### 4. Alpine Ajax (JSON/data-driven behavior)
+**Focus Learning:**
+- Fetching JSON
+- Updating Alpine state from responses
+- When to choose JSON vs HTML
+
+**Deliverables:**
+- One small JSON-driven widget (stats, random item, etc.)
+
+### 5. Accessible Astro Components
+**Focus Learning:**
+- How to use their accessible UI primitives
+- How to integrate them with htmx + Alpine
+- How to override styles safely
+
+**Deliverables:**
+- One or two accessible components (tabs, accordion, dialog)
