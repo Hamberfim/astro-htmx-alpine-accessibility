@@ -1,5 +1,16 @@
 # Astro, HTMX, Alpine, Alpine Ajax, & Accessible Astro Components
 
+## 🧭 Project Shape
+Mimic a content-heavy reference site that includes:
+- A homepage
+- A small set of content pages (10–20 short entries)
+- A few interactive examples
+- A few of accessible components
+- Some JSON-driven data and/or widgets
+- A few htmx partial updates
+
+This structure teaches the stack without drifting into “build a full marketing site” or “build a blog product.”
+
 ## Core Purpose
 Learn how to build a content-heavy website using:
 
@@ -42,7 +53,7 @@ This is a learning project, not a product. Every feature exists only to teach on
 - Enhancing htmx-updated regions
 
 **Deliverables:**
-- A toggle, disclosure, or small UI component
+- A toggle, disclosure, and/or small UI component
 
 ### 4. Alpine Ajax (JSON/data-driven behavior)
 **Focus Learning:**
@@ -51,7 +62,7 @@ This is a learning project, not a product. Every feature exists only to teach on
 - When to choose JSON vs HTML
 
 **Deliverables:**
-- One small JSON-driven widget (stats, random item, etc.)
+- One or two small JSON-driven widget (stats, random item, etc.)
 
 ### 5. Accessible Astro Components
 **Focus Learning:**
@@ -60,4 +71,14 @@ This is a learning project, not a product. Every feature exists only to teach on
 - How to override styles safely
 
 **Deliverables:**
-- One or two accessible components (tabs, accordion, dialog)
+- Two or more accessible components (tabs, accordion, dialog)
+
+### 6 (& 1). GitHub + GitHub Pages Deployment
+**Focus Learning:**
+- Repo setup
+- Astro static build configuration
+- GitHub Actions deployment
+
+**Deliverables:**
+- A deployed site
+- Confirmed working htmx + Alpine interaction
